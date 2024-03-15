@@ -1,0 +1,24 @@
+.load{
+      background-color: rgb(255, 255, 255,.5);
+      position: fixed;
+      inset: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+}
+body{
+      margin: 0;
+}
+
+.home{
+      margin-top: 30px;
+      box-shadow: .5px 2px  5px 1px  ;
+}
+.wellcome{
+      font-size: 72px;
+      
+      background: linear-gradient(to right, 
+      #ff6b08, #cf23cf, #eedd44 ,#00f); 
+-webkit-text-fill-color: transparent; 
+-webkit-background-clip: text; 
+}
